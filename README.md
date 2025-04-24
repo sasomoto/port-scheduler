@@ -107,22 +107,9 @@ Make sure both are compiled and the input file (`input.txt`) is in the correct `
 
 ---
 
-## 🧠 Potential Viva/Interview Questions
-
-1. How are emergency ships handled?
-2. Why use base-6 for guessing?
-3. What IPC mechanisms are used?
-4. What does each `mtype` mean?
-5. How are messages kept in sync per timestep?
-6. Why multithreading for auth string guessing?
-
----
-
 ## 🧑‍💻 Author
 
 **Shashwat**  
 Made with 💡, caffeine ☕, and lots of debugging 🐞.
 
 ---
-
-Would you like me to make a GitHub-flavored version with emojis and collapsible sections too?
